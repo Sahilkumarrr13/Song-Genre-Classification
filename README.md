@@ -7,3 +7,8 @@ For this reason, streaming services have looked into means of categorizing music
 To begin with, let's load the metadata about our tracks alongside the track metrics compiled by The Echo Nest. A song is about more than its title, artist, and number of listens. We have another dataset that has musical features of each track such as danceability and acousticness on a scale from -1 to 1. These exist in two different files, which are in different formats - CSV and JSON. While CSV is a popular file format for denoting tabular data, JSON is another common file format in which databases often return the results of a given query.
 
 This notebook contains comparision between two Classification model, <b>Decision Tree </b> and <b> Logistic Regression </b> along with <b>Principal Component Analysis </b> for Reduction of data.
+
+Accuracy Score after comparision: 
+
+![image](https://user-images.githubusercontent.com/78020696/183276894-bf01371c-05dd-411d-a724-1e6a828bd350.png)
+
